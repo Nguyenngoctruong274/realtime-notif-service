@@ -1,0 +1,6 @@
+# base CronTabTime on https://crontab.guru/#*_*_*_*
+- Name: RevertPackageQuantity
+  Description: Cộng lại số lượng quà 
+  CronTabTime: '* * * * *'   # Chạy mỗi 1 phút
+  IsActive: true
+

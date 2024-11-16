@@ -1,0 +1,10 @@
+/.idea/
+/vendor/
+coverage.html
+coverage.out
+coverage.xml
+.vscode
+/bin/
+__debug_bin
+/locally/
+go.sum
